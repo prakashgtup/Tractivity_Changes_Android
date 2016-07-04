@@ -1,0 +1,164 @@
+[
+    {
+        "outputFile": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\values-sw480dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\values-sw480dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 54,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\values-sw480dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 54,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 60,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\values-sw480dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 60,
+                        "endOffset": 320
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\values-sw480dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\values-sw480dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 54,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\values-sw480dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 54,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 60,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\values-sw480dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 60,
+                        "endOffset": 320
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:background="@color/white_clr"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:padding="3dp"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/relativeLayout"
+           >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="# 1"
+                style="@style/tractivity_textview_style"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:textSize="14sp"
+                android:textColor="@color/black_clr"
+                android:id="@+id/txtJobId"
+                android:layout_centerInParent="true"
+                android:layout_alignParentLeft="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="W1218"
+                style="@style/tractivity_textview_style"
+                android:textStyle="bold"
+
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+
+                android:textColor="@color/black_clr"
+
+                android:layout_centerInParent="true"
+                android:id="@+id/txtjobNumber" />
+
+            <TextView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/info_image"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:textSize="14sp"
+                android:textColor="@color/black_clr"
+                android:id="@+id/txtInfo"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/relativeDescription"
+
+            android:layout_below="@+id/relativeLayout">
+
+            <TextView
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:text="Description :Standard Tall is very good"
+                android:textSize="14sp"
+                android:textColor="@color/black_clr"
+
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/chckBox"
+                android:id="@+id/txtDescription" />
+
+            <CheckBox
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:layout_marginLeft="10dp"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true"
+                android:id="@+id/chckBox"
+                android:checked="false" />
+
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/relativeQulity"
+
+            android:layout_below="@+id/relativeDescription">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="QTY : 20 "
+                android:textSize="14sp"
+                android:textColor="@color/black_clr"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:layout_centerInParent="true"
+                android:layout_alignParentLeft="true"
+                android:id="@+id/txtQtyNumber" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Area 1"
+                android:textSize="14sp"
+                android:textColor="@color/black_clr"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:layout_centerInParent="true"
+                android:id="@+id/txtArea" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="INSTALLED"
+
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                style="16.00sp"
+                android:textStyle="bold"
+                android:textColor="@color/black_clr"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true"
+                android:id="@+id/txtStatus" />
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

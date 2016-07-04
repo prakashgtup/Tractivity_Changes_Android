@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/mlayout_id"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="25.0dip"
+        android:orientation="vertical" >
+
+        <!--
+            <TextView android:layout_width="wrap_content" android:layout_marginLeft="15.0dip"
+				android:layout_height="fill_parent" android:textColor="@color/black_clr"
+				android:id="@+id/log_child1" android:textSize="14.0dip">
+			</TextView>
+
+			<TextView android:layout_width="wrap_content" android:layout_marginLeft="15.0dip"
+				android:layout_height="fill_parent" android:textColor="@color/black_clr"
+				android:id="@+id/log_child2" android:textSize="14.0dip">
+			</TextView>
+			
+			<TextView android:layout_width="wrap_content" android:layout_marginLeft="15.0dip"
+				android:layout_height="fill_parent" android:textColor="@color/black_clr"
+				android:id="@+id/log_child3" android:textSize="14.0dip">
+			</TextView>
+        -->
+
+        <!-- <TextView
+            android:id="@+id/child_textID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:drawableLeft="@drawable/rightlistarrow"
+            android:drawablePadding="5dp"
+            android:textColor="@color/black_clr"
+            android:textSize="14.0dip" >
+        </TextView> -->
+
+        <com.trac.android.tractivity.customlist.InnerExpandableListView
+            android:id="@+id/inner_expandable_listID"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:groupIndicator="@null"
+            android:cacheColorHint="@color/white_clr"
+            android:divider="@null"
+            android:layout_marginLeft="5dip" >
+        </com.trac.android.tractivity.customlist.InnerExpandableListView>
+    </LinearLayout>
+
+</LinearLayout>

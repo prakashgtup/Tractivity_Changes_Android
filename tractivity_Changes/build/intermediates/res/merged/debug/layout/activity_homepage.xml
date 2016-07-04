@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_clr"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/homepage_title_status_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/log_typeID"
+            style="@style/tractivity_textview_style"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/downlistarrow"
+            android:text="@string/history"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/log_timeID"
+            style="@style/tractivity_textview_style"
+            android:layout_alignParentRight="true"
+             />
+
+        <TextView
+            android:id="@+id/sync_statusID"
+            style="@style/tractivity_textview_style"
+            android:layout_alignParentRight="true"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <TableLayout
+        android:id="@+id/homepage_menu_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="10dp"
+        android:stretchColumns="*" >
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/begin_job_menuID"
+                style="@style/tractivity_textview_style"
+                android:textSize="16sp"
+                android:layout_gravity="left"
+                android:drawableLeft="@drawable/begin_job_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:text="@string/begin_job"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/enter_details_w2s"
+                style="@style/tractivity_textview_style"
+                android:textSize="16sp"
+                android:layout_gravity="left"
+                android:drawableLeft="@drawable/enter_details_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:text="@string/enter_details_w2s"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/enter_details_menuID"
+                style="@style/tractivity_textview_style"
+                android:textSize="16sp"
+                android:layout_gravity="left"
+                android:drawableLeft="@drawable/enter_details_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:text="@string/enter_details"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+            <TextView
+                android:id="@+id/all_lunch_menuID"
+                style="@style/tractivity_textview_style"
+                android:textSize="16sp"
+                android:layout_gravity="left"
+                android:drawableLeft="@drawable/all_lunch_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:text="@string/all_lunch"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+
+
+        </TableRow>
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+            <TextView
+                android:id="@+id/end_day_menuID"
+                style="@style/tractivity_textview_style"
+                android:textSize="16sp"
+                android:layout_gravity="left"
+                android:drawableLeft="@drawable/end_day_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:text="@string/end_day"
+                android:textStyle="bold"
+                android:visibility="invisible" />
+        </TableRow>
+    </TableLayout>
+
+    <ExpandableListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/homepage_menu_container"
+        android:layout_below="@id/homepage_title_status_container"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/marginborder" >
+    </ExpandableListView>
+
+    <ScrollView
+        android:id="@+id/custom_expandable_listContainerID"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/homepage_menu_container"
+        android:layout_below="@id/homepage_title_status_container"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/marginborder"
+        android:fillViewport="true"
+        android:padding="3dp" >
+
+        <LinearLayout
+            android:id="@+id/custom_expandable_listID"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homepage.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\materialitrac.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\materialitrac.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\jobdetails.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\jobdetails.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jobdetails.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_jobdetails.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jobs.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_jobs.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\getjobsitrac.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\getjobsitrac.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\add_job_popup.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\add_job_popup.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homepage.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\popuplist.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\popuplist.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\jobdetails.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\jobdetails.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_list.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\expandable_list.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\joblist.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\joblist.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\noteitrac.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\noteitrac.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\left_arrow_popup.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\left_arrow_popup.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\settings_activity.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\add_job_popup.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\add_job_popup.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_job_detailed_view_page.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_job_detailed_view_page.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configuration.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_configuration.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_list_view_activity.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\layout\\swipe_list_view_activity.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\app_custom_title_bar.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\app_custom_title_bar.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\log_listview.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\log_listview.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\settings_activity.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_network_memory_list.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_network_memory_list.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\loginpage.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\loginpage.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.0.2\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\qtycompleteditrac.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\qtycompleteditrac.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\log_childview.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\log_childview.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jobs.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_jobs.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\group_row.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\group_row.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.0.2\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\joblist.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\joblist.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\log_childview.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\log_childview.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\app_custom_title_bar.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\app_custom_title_bar.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_network_memory_list.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\listrow_network_memory_list.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_job_details.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_job_details.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\left_arrow_popup.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\left_arrow_popup.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_job_detailed_view_page.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_job_detailed_view_page.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_barcode_scanner.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.0.2\\res\\layout\\zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\group_row.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\group_row.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_job_details.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_job_details.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\child3_row.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\child3_row.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\swipe_list_view_activity.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\layout\\swipe_list_view_activity.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\log_listview.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\log_listview.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_network_memory_list.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_network_memory_list.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tractivity.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\fragment_tractivity.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\inner_parent_row.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\inner_parent_row.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\etcitrac.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\etcitrac.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\etcitrac.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\etcitrac.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tractivity.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\fragment_tractivity.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\custom_expandable_list.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\custom_expandable_list.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\qtycompleteditrac.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\qtycompleteditrac.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\package_row.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\layout\\package_row.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_barcode_scanner.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\3.0.2\\res\\layout\\zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\inner_parent_row.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\inner_parent_row.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_jobdentry_details.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\listrow_jobdentry_details.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\child_row.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\child_row.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\package_row.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\layout\\package_row.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\newitrac.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\newitrac.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\newitrac.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\newitrac.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\getjobsitrac.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\getjobsitrac.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\expandable_list.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\expandable_list.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_jobdentry_details.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\listrow_jobdentry_details.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\custom_expandable_list.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\custom_expandable_list.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configuration.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_configuration.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\loginpage.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\loginpage.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\child_row.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\child_row.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\popuplist.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\popuplist.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\materialitrac.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\materialitrac.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\logitrac.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\logitrac.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\noteitrac.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\noteitrac.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_decor.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jobdetails.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\activity_jobdetails.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\logs.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\logs.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\logitrac.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\logitrac.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\child3_row.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\child3_row.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\logs.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\logs.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\layout\\listrow_network_memory_list.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\layout\\listrow_network_memory_list.xml"
+    }
+]

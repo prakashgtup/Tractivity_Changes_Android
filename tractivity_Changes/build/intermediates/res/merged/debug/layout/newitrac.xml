@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white_clr"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="10.0dip"
+        android:fadeScrollbars="true"
+        android:isScrollContainer="true"
+        android:scrollbarDefaultDelayBeforeFade="2000"
+        android:scrollbarFadeDuration="1000"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/EmployeeText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/choose_employee"
+                android:textColor="@color/black_clr"
+                android:textSize="15.0dip" />
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="horizontal"
+                android:stretchColumns="2" >
+
+                <TableRow>
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" >
+
+                        <AutoCompleteTextView
+                            android:id="@+id/employee_filler"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center_vertical"
+                            android:hint="@string/choose_employee_hint"
+                            android:imeOptions="actionNext"
+                            android:maxLines="1"
+                            android:singleLine="true" />
+
+                        <Button
+                            android:id="@+id/employee_clear_btn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right|center"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/edit_delete"
+                            android:visibility="invisible" />
+                    </FrameLayout>
+
+                    <Button
+                        android:id="@+id/chooseemployeenumber"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/add_selector" />
+                </TableRow>
+            </TableLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:text="@string/choose_job"
+                android:textColor="@color/black_clr"
+                android:textSize="15.0dip" />
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="horizontal"
+                android:stretchColumns="2" >
+
+                <TableRow>
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" >
+
+                        <AutoCompleteTextView
+                            android:id="@+id/job_filler"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center_vertical"
+                            android:hint="@string/choose_job_hint"
+                            android:imeOptions="actionNext"
+                            android:maxLines="1"
+                            android:singleLine="true"
+                            android:visibility="gone" />
+
+                        <com.trac.android.tractivity.logs.CustomAutoCompleteView
+                            android:id="@+id/job_autocomplete"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center_vertical"
+                            android:completionThreshold="1"
+                            android:hint="@string/choose_job_hint"
+                            android:imeOptions="actionNext"
+                            android:maxLength="10"
+                            android:maxLines="1"
+                            android:singleLine="true" >
+                        </com.trac.android.tractivity.logs.CustomAutoCompleteView>
+
+                        <Button
+                            android:id="@+id/job_clear_btn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right|center"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/edit_delete"
+                            android:visibility="invisible" />
+                    </FrameLayout>
+
+                    <Button
+                        android:id="@+id/choosejobnumber"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/add_selector" />
+                </TableRow>
+            </TableLayout>
+
+            <TextView
+                android:id="@+id/JobPhaseText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:text="@string/choose_job_phase"
+                android:textColor="@color/black_clr"
+                android:textSize="15.0dip" />
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="horizontal"
+                android:stretchColumns="2" >
+
+                <TableRow>
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" >
+
+                        <AutoCompleteTextView
+                            android:id="@+id/jobphase_filler"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center_vertical"
+                            android:hint="@string/choose_job_phase_hint"
+                            android:imeOptions="actionNext"
+                            android:maxLines="1"
+                            android:singleLine="true" />
+
+                        <Button
+                            android:id="@+id/jobphase_clear_btn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right|center"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/edit_delete"
+                            android:visibility="invisible" />
+                    </FrameLayout>
+
+                    <Button
+                        android:id="@+id/choosejobphasenumber"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/add_selector" />
+                </TableRow>
+            </TableLayout>
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5.0dip"
+                android:text="@string/choose_activity"
+                android:textColor="@color/black_clr"
+                android:textSize="15.0dip" />
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="horizontal"
+                android:stretchColumns="2" >
+
+                <TableRow>
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" >
+
+                        <AutoCompleteTextView
+                            android:id="@+id/activity_filler"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center_vertical"
+                            android:hint="@string/choose_activity_hint"
+                            android:imeOptions="actionDone"
+                            android:maxLines="1"
+                            android:singleLine="true"
+                            android:visibility="gone" />
+                        
+                        <com.trac.android.tractivity.logs.CustomAutoCompleteView
+                            android:id="@+id/activity_autocomplete"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center_vertical"
+                            android:completionThreshold="1"
+                            android:hint="@string/choose_activity_hint"
+                            android:imeOptions="actionDone"
+                            android:maxLength="10"
+                            android:maxLines="1"
+                            android:singleLine="true" >
+                        </com.trac.android.tractivity.logs.CustomAutoCompleteView>
+
+                        <Button
+                            android:id="@+id/activity_clear_btn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right|center"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/edit_delete"
+                            android:visibility="invisible" />
+                    </FrameLayout>
+
+                    <Button
+                        android:id="@+id/chooseactivityenumber"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/add_selector" />
+                </TableRow>
+            </TableLayout>
+
+            <TextView
+                android:id="@+id/accept_jobID"
+                style="@style/tractivity_textview_style"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:drawableLeft="@drawable/accept_job_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:text="@string/accept_job"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/previous_job_textID"
+                style="@style/tractivity_textview_style"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="@string/previous_job_text"
+                android:textSize="20sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

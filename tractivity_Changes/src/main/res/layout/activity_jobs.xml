@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/white_clr"
+
+    tools:context="com.trac.android.tractivity.W2S.Jobs">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/LinearLayout"
+        android:weightSum="8"
+
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:textSize="18.0sp"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:layout_marginLeft="5dp"
+            android:textColor="@color/black_clr"
+            android:layout_gravity="center"
+            android:layout_weight="2.5"
+            android:id="@+id/txtbck" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="4.3"
+            android:gravity="center"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/black_clr"
+            android:textSize="20.0sp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="Jobs"
+
+            android:id="@+id/textView2" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="0.7"
+
+
+            android:marqueeRepeatLimit="marquee_forever"
+            android:layout_margin="10dp"
+            android:layout_marginLeft="25dp"
+            android:textColor="@color/black_clr"
+            android:layout_height="20dp"
+            android:background="@drawable/ic_plus_jobs"
+            android:layout_gravity="center"
+            android:id="@+id/txtplusjobs" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_weight="0.9"
+            android:layout_marginRight="15dp"
+
+            android:marqueeRepeatLimit="marquee_forever"
+            android:layout_marginLeft="1dp"
+            android:background="@drawable/ic_refresh"
+            android:textColor="@color/black_clr"
+
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:id="@+id/txtreload" />
+    </LinearLayout>
+<RelativeLayout
+    android:layout_marginTop="10dp"
+    android:layout_width="match_parent"
+    android:id="@+id/relative"
+
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:padding="5dp"
+    android:background="@drawable/marginborder"
+    android:layout_below="@+id/LinearLayout"
+    android:layout_height="wrap_content">
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtSearch"
+        android:hint="Search"
+        android:background="@null"
+        android:singleLine="true"
+        android:textColor="@color/black_clr"
+        android:textColorHint="@color/gray"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/txtSearch" />
+<TextView
+    android:layout_width="25dp"
+    android:layout_height="19dp"
+    android:ellipsize="marquee"
+
+    android:marqueeRepeatLimit="marquee_forever"
+    android:layout_centerInParent="true"
+    android:layout_alignParentRight="true"
+    android:background="@drawable/search_black"
+    android:id="@+id/txtSearch" />
+</RelativeLayout>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:fadingEdge="none"
+        android:padding="3dp"
+        android:background="@drawable/marginborder"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/relative" />
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0.1sp"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:background="@color/black_clr"
+        android:id="@+id/textView"
+        android:layout_below="@+id/LinearLayout"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Jobs Found"
+        android:textColor="@color/black_clr"
+        android:id="@+id/txtNojobsFound"
+        android:textSize="20.00sp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

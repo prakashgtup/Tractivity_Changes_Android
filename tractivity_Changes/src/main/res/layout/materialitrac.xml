@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white_clr"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fadeScrollbars="true"
+        android:isScrollContainer="true"
+        android:scrollbarDefaultDelayBeforeFade="2000"
+        android:scrollbarFadeDuration="1000"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10.0dip" >
+
+            <TextView
+                style="@style/tractivity_textview_style"
+                android:layout_marginTop="5dp"
+                android:text="@string/choose_material"
+                android:textColor="@color/black_clr" />
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal"
+                android:stretchColumns="2" >
+
+                <TableRow>
+
+                   <!-- <EditText
+                        android:id="@+id/material_partnumber"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1"
+                        android:hint="@string/choose_material_hint"
+                        android:maxLines="1"
+                        android:singleLine="true" />-->
+
+                    <FrameLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" >
+
+
+                        <com.trac.android.tractivity.logs.CustomAutoCompleteView
+                            android:id="@+id/material_partnumber"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:layout_gravity="center_vertical"
+                            android:completionThreshold="1"
+                            android:hint="@string/choose_material_hint"
+                            android:imeOptions="actionNext"
+                            android:maxLength="10"
+                            android:maxLines="1"
+                            android:singleLine="true" >
+                        </com.trac.android.tractivity.logs.CustomAutoCompleteView>
+
+                        <Button
+                            android:id="@+id/material_clear_btn"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right|center"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@drawable/edit_delete"
+                            android:visibility="invisible" />
+                    </FrameLayout>
+
+                    <Button
+                        android:id="@+id/choosepartnumber"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="@drawable/add_selector" />
+                </TableRow>
+            </TableLayout>
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="horizontal"
+                android:stretchColumns="2" >
+
+                <TableRow>
+
+                    <TextView
+                        style="@style/tractivity_textview_style"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/quantity" />
+
+                    <EditText
+                        android:id="@+id/material_quantity"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="3"
+                        android:hint="@string/quantity_hint"
+                        android:inputType="number|numberSigned|numberDecimal"
+                        android:maxLength="7" />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

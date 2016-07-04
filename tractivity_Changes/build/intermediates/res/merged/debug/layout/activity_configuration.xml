@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white_clr"
+        android:orientation="vertical"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" 
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/network_name_containerID"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_weight="3"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/tractivity_textview_style"
+                    android:text="@string/network_name" />
+
+                <EditText
+                    android:id="@+id/network_nameID"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:hint="@string/network_name"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/server_details_list_imageID"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/image_desc"
+                android:src="@drawable/server_info_selector" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_weight="3"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/tractivity_textview_style"
+                    android:text="@string/host_address" />
+
+                <EditText
+                    android:id="@+id/hostIP"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:hint="@string/host_address"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/port_details_containerID"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    style="@style/tractivity_textview_style"
+                    android:text="@string/port" />
+
+                <EditText
+                    android:id="@+id/portno"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:hint="@string/port"
+                    android:maxLength="4"
+                    android:inputType="number"
+                    android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                style="@style/tractivity_textview_style"
+                android:text="@string/local_path" />
+
+            <EditText
+                android:id="@+id/localpath"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:hint="@string/local_path"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/progress_textID"
+            style="@style/tractivity_textview_style"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+             />
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="4dp"
+            android:layout_marginTop="5dp" />
+
+        <CheckBox
+            android:id="@+id/remember_network_checkboxID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+             android:layout_marginTop="5dp"
+             android:checked="true"
+            android:text="@string/remember_network"
+            android:textColor="@color/black_clr"
+            android:visibility="gone" />"
+
+        <TextView
+            android:id="@+id/config_ok"
+            style="@style/tractivity_textview_style"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:drawablePadding="10dp"
+            android:textStyle="bold"
+            android:drawableBottom="@drawable/server_connect_selector"
+            android:text="@string/connect" />
+    </LinearLayout>
+
+</ScrollView>

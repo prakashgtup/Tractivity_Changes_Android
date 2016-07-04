@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_clr"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        style="@style/tractivity_textview_style"
+        android:layout_gravity="center"
+        android:text="@string/choose_job_detail" />
+
+    <TextView
+        android:id="@+id/current_job_textID"
+        style="@style/tractivity_textview_style"
+        android:textStyle="bold"
+        android:layout_gravity="center" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:stretchColumns="*" >
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/job_details_add_notesID"
+                style="@style/tractivity_textview_style"
+                android:layout_gravity="left"
+                android:drawableLeft="@drawable/create_note_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:text="@string/enter_note" />
+
+            <TextView
+                android:id="@+id/job_details_add_materialID"
+                style="@style/tractivity_textview_style"
+                android:layout_gravity="left"
+                android:drawableLeft="@drawable/material_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="@string/enter_material" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/job_details_add_etcID"
+                style="@style/tractivity_textview_style"
+                android:layout_gravity="left"
+                android:drawableLeft="@drawable/etc_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:text="@string/enter_etc" />
+
+            <TextView
+                android:id="@+id/job_details_add_qtyID"
+                style="@style/tractivity_textview_style"
+                android:layout_gravity="left"
+                android:drawableLeft="@drawable/quantity_selector"
+                android:drawablePadding="5dp"
+                android:gravity="center"
+                android:textSize="12sp"
+                android:text="@string/enter_quantity" />
+        </TableRow>
+    </TableLayout>
+
+    <ListView
+        android:id="@+id/job_details_listID"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="@color/white_clr"
+        android:background="@drawable/marginborder"
+        android:padding="2dp"
+        android:fadingEdge="none" >
+    </ListView>
+
+</LinearLayout>

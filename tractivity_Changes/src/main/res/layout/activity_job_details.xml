@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/white_clr"
+
+    tools:context="com.trac.android.tractivity.W2S.Jobs">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/LinearLayout"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_alignParentLeft="true"
+            android:text="Back"
+            android:layout_marginLeft="5dp"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:textSize="18.0sp"
+            android:textColor="@color/black_clr"
+            android:id="@+id/txtbck" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_centerInParent="true"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:textColor="@color/black_clr"
+            android:textSize="20.0sp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="Jobs"
+
+            android:id="@+id/textView2" />
+
+        <CheckBox
+            android:layout_width="45dp"
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:layout_height="36dp"
+            android:id="@+id/jobCheckbox"
+            android:checked="false" />
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:visibility="gone"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:id="@+id/spinnerShowselected"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0.1sp"
+
+        android:background="@color/black_clr"
+        android:id="@+id/textView"
+        android:layout_below="@+id/LinearLayout"
+        android:layout_alignParentRight="true" />
+
+    <RelativeLayout
+        android:id="@+id/relativeSort"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_below="@+id/LinearLayout"
+        android:layout_alignParentLeft="true">
+
+        <Spinner
+            android:layout_width="160dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/spinnersortid" />
+
+        <Spinner
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:layout_toRightOf="@+id/spinnersortid"
+            android:id="@+id/spinnerMovedItem" />
+
+    </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_marginTop="1dp"
+                android:layout_width="match_parent"
+                android:id="@+id/relative"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="50dp"
+                android:padding="5dp"
+                android:background="@drawable/marginborder"
+                android:layout_below="@+id/relativeSort"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true">
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtSearch"
+                android:hint="Search"
+                android:singleLine="true"
+                android:background="@null"
+
+                android:textColor="@color/black_clr"
+                android:textColorHint="@color/gray"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@+id/txtSearch" />
+            <TextView
+                android:layout_width="25dp"
+                android:layout_height="19dp"
+                android:layout_centerInParent="true"
+                android:ellipsize="marquee"
+
+                android:marqueeRepeatLimit="marquee_forever"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/search_black"
+                android:id="@+id/txtSearch" />
+
+
+            </RelativeLayout>
+
+    <TextView
+        android:id="@+id/barcode_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:background="@drawable/ic_bar_code"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/relativeSort"
+        android:layout_alignBottom="@+id/relative" />
+
+
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/listView"
+            android:fadingEdge="none"
+
+            android:background="@drawable/marginborder"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:padding="3dp"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/relative" />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/LinearLayout"></RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="No Jobs Found"
+        android:id="@+id/txtNojobsFound"
+        android:textColor="@color/black_clr"
+        android:textSize="20.00sp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
+
+

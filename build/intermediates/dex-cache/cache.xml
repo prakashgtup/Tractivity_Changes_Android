@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\pre-dexed\debug\support-v4-19.1.0_73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" />
+    </item>
+    <item
+        jar="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_592193229097e5d47b24ba3b002f435a3b4fd0dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Prakash\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\pre-dexed\debug\core-3.2.0_8b7ff90f78712d31f197d55875df171e184d0488.jar" />
+    </item>
+    <item
+        jar="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\exploded-aar\Tractivity_Changes_Android\swipeListLib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f92e260320a1ac2f8805f26867f266806f47987f">
+        <dex dex="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\pre-dexed\debug\Tractivity_Changes_Android-swipeListLib-unspecified_da4880561fe10e1009366931009f22e01fbdd058.jar" />
+    </item>
+    <item
+        jar="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\exploded-aar\Tractivity_Changes_Android\swipeListLib\unspecified\jars\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a19cad8a759937f3dccc83f9cd5db76efbf8533c">
+        <dex dex="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_3fab7d7f5432941c9083b8a94e24583252af4082.jar" />
+    </item>
+    <item
+        jar="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.0.2_e6c79d4b1c314a3dd9d72be465f01baca297d64a.jar" />
+    </item>
+    <item
+        jar="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\libs\ksoap2-android-assembly-2.6.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="07807e2efeabd47e4ff827ec198c16cef3c0d0c8">
+        <dex dex="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.6.4-jar-with-dependencies_4575bf64394af32a85b7fe3a045376f2668ce5af.jar" />
+    </item>
+    <item
+        jar="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23023656ba91dc12e963cf7d5682db5d2aba6262">
+        <dex dex="D:\Prakash\Projects\Tractivity\Tractivity\trunk\Tractivity_Changes_Android\tractivity_Changes\build\intermediates\pre-dexed\debug\google-play-services_12ed6e32ef854c4547710b30d78e50c1eac170dd.jar" />
+    </item>
+
+</items>

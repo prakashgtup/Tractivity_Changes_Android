@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_clr" 
+    >
+
+    <View 
+        android:id="@+id/title_bar_border_id"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray"/>
+    
+    
+    <TextView
+        android:id="@+id/leftmenuID"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="2dp"
+        android:gravity="center"
+        android:textColor="@color/black_clr"
+        android:textSize="18.0sp" />
+
+    <TextView
+        android:id="@+id/rightmenuID"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:textColor="@color/black_clr"
+        android:textSize="18.0sp"
+        android:text="@string/edit"  />
+
+    <TextView
+        android:id="@+id/MainTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:textColor="@color/black_clr"
+        android:textSize="20.0sp"
+        android:textStyle="bold"
+        />
+
+    <ImageView
+        android:id="@+id/title_logoID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:src="@drawable/logo"
+        android:contentDescription="@string/image_desc"
+        android:visibility="gone"
+        />
+    
+    
+    
+</RelativeLayout>

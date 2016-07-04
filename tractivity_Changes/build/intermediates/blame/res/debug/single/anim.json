@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

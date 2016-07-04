@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white_clr"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+       >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/relativeLayout"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Job 1"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                style="@style/tractivity_textview_style"
+                android:textColor="@color/black_clr"
+                android:id="@+id/txtJobName"
+                android:textStyle="bold"
+                android:layout_centerInParent="true"
+                android:layout_alignParentLeft="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="12/06/16"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:layout_marginRight="50dp"
+                android:textSize="14sp"
+                android:textColor="@color/black_clr"
+                android:id="@+id/txtDate"
+                android:layout_centerInParent="true"
+                android:layout_alignParentRight="true" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="3dp"
+
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/relativeLayout"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3 items,2 stages"
+                android:layout_marginRight="10dp"
+                android:textSize="14sp"
+                android:ellipsize="marquee"
+
+                android:marqueeRepeatLimit="marquee_forever"
+                android:textColor="@color/black_clr"
+                android:id="@+id/txtItem"
+                android:layout_centerInParent="true"
+                android:layout_alignParentLeft="true" />
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+</LinearLayout>

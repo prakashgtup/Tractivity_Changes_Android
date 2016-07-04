@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white_clr"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="10.0dip"
+        android:fadeScrollbars="true"
+        android:isScrollContainer="true"
+        android:scrollbarDefaultDelayBeforeFade="2000"
+        android:scrollbarFadeDuration="1000"
+        android:scrollbars="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="10dip"
+                android:paddingLeft="10dip"
+                android:paddingRight="10dip"
+                android:paddingTop="20dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="center_vertical"
+                    android:text="Enter UserName"
+                    android:textColor="@color/black_clr"
+                    android:textSize="18dip" />
+
+                <EditText
+                    android:id="@+id/username"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:maxLines="1"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="10dip"
+                android:paddingLeft="10dip"
+                android:paddingRight="10dip"
+                android:paddingTop="10dip" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="center_vertical"
+                    android:text="Enter Password"
+                    android:textColor="@color/black_clr"
+                    android:textSize="18dip" />
+
+                <EditText
+                    android:id="@+id/password"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:maxLines="1"
+                    android:password="true"
+                    android:singleLine="true" />
+"
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="15.0dip" >
+
+                <Button
+                    android:id="@+id/lp_cancel"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:text="Cancel"
+                    android:textSize="18dip" />
+
+                <Button
+                    android:id="@+id/lp_login"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:text="Login"
+                    android:textSize="18dip" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <!--
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="40dip"
+				  android:orientation="horizontal" android:background="@color/blue_clr"
+				  android:gravity="bottom">
+		<Button android:layout_width="wrap_content" android:layout_height="fill_parent"
+				android:text="Cancel" android:layout_weight="1"
+				android:id="@+id/lp_cancel"/>
+		<Button android:layout_width="wrap_content" android:layout_height="fill_parent"
+				android:text="Log In" android:layout_weight="1"
+				android:id="@+id/lp_login"/>							  
+	</LinearLayout>
+    -->
+
+</LinearLayout>

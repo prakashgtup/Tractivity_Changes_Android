@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\Tractivity_Changes_Android\\swipeListLib\\unspecified\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\menu\\tractivity.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\menu\\tractivity.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\menu\\tractivity.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\menu\\tractivity.xml"
+    }
+]

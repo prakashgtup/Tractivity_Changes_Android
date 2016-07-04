@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="tree_view_child_padding">40dp</dimen>
+    <dimen name="tree_view_inner_child_padding">60dp</dimen>
+</resources>

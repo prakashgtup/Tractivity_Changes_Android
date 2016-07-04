@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:orientation="vertical" android:layout_height="fill_parent"
+			  android:layout_width="fill_parent" android:background="@color/white_clr">
+	
+
+		<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+					  android:layout_weight="1" android:orientation="vertical">
+			<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+						  android:orientation="vertical" android:paddingLeft="10dip"
+						  android:paddingTop="10dip" android:paddingRight="10dip">
+				<TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+						  android:text="iTrac by Tractivity" android:textColor="@color/black_clr"
+						  android:gravity="center_vertical" android:textStyle="bold"
+						  android:textSize="18dip"/>
+			</LinearLayout>
+			<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+				 		  android:orientation="vertical" android:paddingLeft="10dip"
+						  android:paddingTop="10dip" android:paddingRight="10dip">
+				<TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+				 		  android:text="Version : v1.7.2" android:textColor="@color/black_clr"
+				  		  android:gravity="center_vertical" android:textStyle="bold"
+				  		  android:textSize="18dip"></TextView>
+			</LinearLayout>
+			<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+						  android:orientation="horizontal" android:paddingLeft="10dip"
+						  android:paddingTop="10dip" android:paddingRight="10dip">
+				<TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+						  android:text="Sync Status:" android:textColor="@color/black_clr"
+						  android:gravity="center_vertical" android:textSize="18dip"/>
+				<TextView android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip"
+						  android:textColor="@color/black_clr"  android:gravity="center_vertical" android:textSize="18dip" android:id="@+id/syncstatus"/>
+			</LinearLayout>
+			<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+				  		  android:orientation="horizontal" android:paddingLeft="10dip"
+				  		  android:paddingTop="10dip" android:paddingRight="10dip">
+				<TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+						  android:text="Last Sync:" android:textColor="@color/black_clr"
+						  android:gravity="center_vertical" android:textSize="18dip"/>
+				<TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+						   android:textColor="@color/black_clr" android:layout_marginLeft="10.0dip"
+						  android:textSize="18dip" android:id="@+id/lastsync"/>
+			</LinearLayout>
+			<LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+				  		  android:orientation="horizontal" android:paddingLeft="10dip"
+				  		  android:paddingTop="10dip" android:paddingRight="10dip">
+				<TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+						  android:text="Last Attempt:" android:textColor="@color/black_clr"
+						  android:gravity="center_vertical" android:textSize="18dip"/>
+					<TextView android:layout_width="wrap_content" android:layout_height="fill_parent"
+						  android:textColor="@color/black_clr" android:layout_marginLeft="10.0dip"
+						  android:gravity="center_vertical" android:textSize="18dip" android:id="@+id/lastattempt"/>
+			</LinearLayout>
+			<LinearLayout android:layout_width="fill_parent" android:layout_height="fill_parent" 
+				  		  android:orientation="vertical" android:layout_margin="10.0dip" android:background="@drawable/marginborder" >
+				<TextView android:layout_width="fill_parent" android:layout_height="wrap_content"
+						  android:textColor="@color/black_clr" android:layout_marginLeft="15.0dip"
+						  android:textSize="18dip" android:id="@+id/lastattemptBox" />
+			    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content"
+						  android:textColor="@color/black_clr" android:layout_marginLeft="15.0dip" android:lines="1"
+						  android:textSize="18dip" android:id="@+id/lastattemptBoxInfo"/>
+			   <TextView android:layout_width="fill_parent" android:layout_height="wrap_content"
+						  android:textColor="@color/black_clr" android:layout_marginLeft="15.0dip" android:lines="2"
+						  android:textSize="18dip" android:id="@+id/lastattemptBoxFailedmsg"/>
+				
+						</LinearLayout>
+		</LinearLayout>
+
+</LinearLayout>

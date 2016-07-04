@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_server_connect_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_server_connect_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\downarrow.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\downarrow.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\material_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\material_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_etc_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_etc_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_server_info_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_server_info_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_return_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_return_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_refresh_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_return_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_return_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_server_info_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_server_info_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_end_day_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_end_day_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_server_info_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_server_info_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\downlistarrow.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\downlistarrow.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_return_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_return_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_end_day_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_end_day_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_refresh_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_login_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\startitrac.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\startitrac.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\server_connect_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\server_connect_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bar_code.jpg",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_bar_code.jpg"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lunch_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_lunch_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\material_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\material_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_login_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\add_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\add_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lunch_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_lunch_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_accept_job_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_accept_job_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_return_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_return_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\add_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\add_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\logoutitrac.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\logoutitrac.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\end_day_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\end_day_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\server_info_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\server_info_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\getjobsitrac.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\getjobsitrac.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_enter_details_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_enter_details_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\info_image.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\info_image.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\downlistarrow.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\downlistarrow.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\rightlistarrow.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\rightlistarrow.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_textview_backgroundcolour.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\selector_textview_backgroundcolour.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_enter_details_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_enter_details_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\create_note_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\create_note_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\jobdetailsitrac.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\jobdetailsitrac.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\accept_job_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\accept_job_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\marginborder.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\marginborder.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\rightlistarrow.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\rightlistarrow.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\down_selected.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\down_selected.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_refresh.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_material_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_material_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\all_return_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\all_return_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\search_black.jpg",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\search_black.jpg"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_begin_job_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_begin_job_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_job_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\refresh_job_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\newitrac.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\newitrac.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_accept_job_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_accept_job_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_begin_job_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_begin_job_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_material_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_material_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\search_black.jpg",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\search_black.jpg"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_login_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_accept_job_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_accept_job_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\etc_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\etc_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lunch_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_lunch_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_material_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_material_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\all_lunch_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\all_lunch_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_create_note_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_create_note_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lunch_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_lunch_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\newitrac.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\newitrac.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\logoutitrac.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\logoutitrac.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_begin_job_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_begin_job_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh_job_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\refresh_job_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\etc_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\etc_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_server_connect_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_server_connect_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\server_connect_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\server_connect_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\jobdetailsitrac.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\jobdetailsitrac.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_enter_details_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_enter_details_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_qty_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_qty_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\all_lunch_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\all_lunch_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_create_note_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_create_note_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\startitrac.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\startitrac.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_material_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_material_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_add_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\quantity_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\quantity_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_qty_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_qty_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_server_connect_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_server_connect_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_create_note_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_create_note_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_end_day_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_end_day_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_login_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_login_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_server_connect_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_server_connect_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_etc_pressed.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_etc_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_textview_backgroundcolour.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\selector_textview_backgroundcolour.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_refresh.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_refresh.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_bar_code.jpg",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_bar_code.jpg"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_qty_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_qty_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_create_note_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_create_note_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\create_note_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\create_note_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\quantity_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\quantity_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_end_day_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_end_day_normal.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\enter_details_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\enter_details_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\begin_job_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\begin_job_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_etc_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_etc_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\down_selected.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\down_selected.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\all_return_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\all_return_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_add_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\enter_details_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\enter_details_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\login_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\login_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\begin_job_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\begin_job_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_accept_job_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_accept_job_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_begin_job_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_begin_job_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\info_image.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\info_image.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\getjobsitrac.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\getjobsitrac.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\login_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\login_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\server_info_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\server_info_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_etc_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_etc_pressed.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_enter_details_normal.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_enter_details_normal.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\end_day_selector.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\end_day_selector.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_qty_pressed.png",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_qty_pressed.png"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\marginborder.xml",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\marginborder.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\accept_job_selector.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\accept_job_selector.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\downarrow.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\downarrow.png"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "D:\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_server_info_normal.png",
+        "source": "D:\\Prakash\\Projects\\Tractivity\\Tractivity\\trunk\\Tractivity_Changes_Android\\tractivity_Changes\\src\\main\\res\\drawable\\ic_server_info_normal.png"
+    }
+]

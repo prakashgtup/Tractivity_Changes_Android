@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_clr"
+
+    tools:context="com.trac.android.tractivity.W2S.JobDetailedViewPage">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/LinearLayout"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_alignParentLeft="true"
+            android:text="Back"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:textSize="18.0sp"
+            android:textColor="@color/black_clr"
+            android:id="@+id/txtbck" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_centerInParent="true"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:textColor="@color/black_clr"
+            android:textSize="20.0sp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="Job Details"
+
+            android:id="@+id/textView2" />
+
+
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1.0sp"
+
+        android:background="@color/black_clr"
+        android:id="@+id/textView"
+        android:layout_below="@+id/LinearLayout"
+        android:layout_alignParentRight="true" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/LinearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+
+                android:text="Job Number"
+                style="@style/tractivity_textview_style"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtJobNumber"
+                android:cursorVisible="false"
+                android:clickable="false"
+
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:hint="JOb 1123"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+            <TextView
+
+                android:text="Area 1"
+                style="@style/tractivity_textview_style"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtArea1"
+                android:hint="Block A"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+
+            <TextView
+                android:text="Area 2"
+                style="@style/tractivity_textview_style" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtArea2"
+                android:hint="Block B"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+            <TextView
+
+                android:text="Area 3"
+                style="@style/tractivity_textview_style" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtArea3"
+                android:hint="Block C"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+            <TextView
+
+                android:text="Area 4"
+                style="@style/tractivity_textview_style"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtArea4"
+                android:hint="Block D"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+            <TextView
+                android:text="Description"
+                style="@style/tractivity_textview_style" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtDescription"
+                android:layout_marginTop="5dp"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:hint="Description"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+            <TextView
+
+                android:text="Product Description"
+                style="@style/tractivity_textview_style" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtProductDescription"
+                android:layout_marginTop="5dp"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:hint="Product Description"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+
+            <TextView
+
+                android:text="Quality"
+                style="@style/tractivity_textview_style" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtQuality"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:hint="Product Description"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+            <TextView
+
+                android:text="PWG"
+                style="@style/tractivity_textview_style"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtPWG"
+                android:hint="PWG"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+            <TextView
+                android:text="Items"
+                style="@style/tractivity_textview_style" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtItems"
+                android:hint="10"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+            <TextView
+
+                android:text="Stages"
+                style="@style/tractivity_textview_style"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/edtStages"
+                android:hint="5"
+                android:cursorVisible="false"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_marginTop="5dp"
+                android:layout_below="@+id/txtJobNumber"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="true" />
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>
